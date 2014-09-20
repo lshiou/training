@@ -25,8 +25,7 @@ arguments.foreach(function(value, index, array){
 
     //here comes some new stuff from the master branch
 
-    //here is the local change in branch 2
-    
+    //here is the local change in branch 2, and some remote change in branch 2
     
 }
 
