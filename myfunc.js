@@ -22,6 +22,8 @@ arguments.foreach(function(value, index, array){
 });
 */
     return Math.square(sum);
+
+    //added some stuff in feature branch
 }
 
 
