@@ -22,6 +22,9 @@ arguments.foreach(function(value, index, array){
 });
 */
     return Math.square(sum);
+
+    //here comes some new stuff from the master branch
+    
 }
 
 
