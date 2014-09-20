@@ -25,7 +25,7 @@ arguments.foreach(function(value, index, array){
 
     //here comes some new stuff from the master branch
 
-    //here is the change in branch 2
+    //here is some further change in branch 2
     
     
 }
