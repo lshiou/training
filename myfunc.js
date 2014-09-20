@@ -5,11 +5,12 @@ This is a test file
 */
 
 //function add the list of arguments, then square
-function sumSquare(){  
+function sumSquare() {
     var sum = 0;    
     for(var i=0; i<arguments.length; i++){
         sum += arguments[i];
     }
+
 /*  alternative1    
     for(var i in arguments){
         sum += arguments[i];
